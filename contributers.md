@@ -37,6 +37,7 @@
 | Pranshu Sethi           | iampranshusethi        | IIIT Allahabad                  |
 | Abhay Pratap Singh      | d2-e2-v2               | IIIT Allahabad                  |  
 | Saurav Gitte            | SauravGitte            | IIIT Allahabad                  |
+| Lavay Garg              | lavaygarg              | IIIT Allahabad                  |
  <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
 
